@@ -12,7 +12,7 @@ Resolução de questões estão em linguagem .C
 Possui comentários explicativos das funções dentro do código 
 
 Identação e nomenclatura adequada
-## Como acessar a atividade
+## Como Acessar a Atividade
 Selecionar Atividade-150-Questoes/
 
 Pasta IFSC/ para ver as soluções
