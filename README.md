@@ -13,12 +13,12 @@ Possui comentários explicativos das funções dentro do código
 
 Identação e nomenclatura adequada
 ## Como Acessar a Atividade
-Selecionar Atividade-150-Questoes/
+Selecionar 150Questoes-LinguagemC/
 
 Pasta IFSC/ para ver as soluções
 
 Pasta PUCRS/ para ver as soluções 
 ## Link da Atividade
-https://github.com/v1t1nhobr/Atividade-150-Questoes/tree/main
+https://github.com/v1t1nhobr/150Questoes-LinguagemC
 
 
