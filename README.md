@@ -13,7 +13,7 @@ Possui comentários explicativos das funções dentro do código
 
 Identação e nomenclatura adequada
 ## Como Acessar a Atividade
-Selecionar 150Questoes-LinguagemC/
+Selecionar 100Questoes-LinguagemC/
 
 Pasta IFSC/ para ver as soluções
 
