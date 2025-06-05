@@ -19,6 +19,6 @@ Pasta IFSC/ para ver as soluções
 
 Pasta PUCRS/ para ver as soluções 
 ## Link da Atividade
-https://github.com/v1t1nhobr/150Questoes-LinguagemC
+https://github.com/v1t1nhobr/100Questoes-LinguagemC
 
 
