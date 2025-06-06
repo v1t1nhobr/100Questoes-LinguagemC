@@ -5,7 +5,7 @@ Curso: Linguagem de Programação C
 Uniruy Wyden
 
 ## OBJETIVO
-O trabalho tem o objetivo de solucionar 150 questões das listas de atividade da IFSC e PUCRS na matéria de introdução a programação em linguagem .c
+O trabalho tem o objetivo de solucionar 100 questões das listas de atividade da IFSC e PUCRS na matéria de introdução a programação em linguagem .c
 ## Observações
 Resolução de questões estão em linguagem .C
 
