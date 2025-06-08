@@ -11,7 +11,7 @@ Resolução de questões estão em linguagem .C
 
 Possui comentários explicativos das funções dentro do código 
 
-Identação e nomenclatura adequada
+Indentação e nomenclatura adequada
 ## Como Acessar a Atividade
 Selecionar 100Questoes-LinguagemC/
 
