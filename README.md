@@ -2,6 +2,8 @@ Professor: Heleno Cardoso
 
 Curso: Linguagem de Programação C
 
+Aluno: João Vitor Ferreira da Silva
+
 Uniruy Wyden
 
 ## OBJETIVO
